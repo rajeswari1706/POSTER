@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+    <link rel="icon" href="D:\ALLDATA\Pictures\small.jpg"></link>
+</head>
+<body bgcolor="#001f3f" style="color:white;">
+    <center>
+    <h1><i><u>dance competition 💃</h1></body></i></u>
+    <h4>Great dancers are not great because of their technique, they are great because of their passion</h4>
+</center>
+<hr>
+<hr>
+<p><h5>A dance competition is a thrilling event where dancers showcase their skills and passion on stage. Teams or individuals compete through choreographed routines, often judged on technique, artistry, and overall performance. These competitions can range from local school events to prestigious national or international showcases. The atmosphere is usually charged with excitement and anticipation as dancers strive to impress the audience and judges with their talent and dedication. 
+This video demonstrates various dance competition performances:Beyond the performance, dance competitions foster a sense of community among dancers, encouraging camaraderie and healthy competition. Participating in a dance competition can be a transformative experience, boosting confidence, improving performance skills, and providing valuable learning opportunities. Whether a dancer wins or not, the experience of performing, pushing their limits, and connecting with fellow dancers can be incredibly rewarding.</h5> 
+</p><center>
+<img src="D:\ALLDATA\Pictures\TIU-LandingLoad-2020.jpg" width="560px">
+</center>
+<h3>types of dance</h3>
+<img src="D:\ALLDATA\Pictures\traditional.jpg"><img src="D:\ALLDATA\Pictures\ballet.jpg">      <img src="D:\ALLDATA\Pictures\hiphop.jpg"> <img src="D:\ALLDATA\Pictures\melody.jpg" width="200px"> <img src="D:\ALLDATA\Pictures\property.jpg">   <img src="D:\ALLDATA\Pictures\imitating.jpg" width="200px"> <img src="D:\ALLDATA\Pictures\hq720.jpg" width="230px">
+
+<ul><li><h5>Bharathanatiyam</h5></li>
+<li><h5>ballet</h5></li>
+<li><h5>hiphop</h5></li>
+<li><h5>melody</h5></li>
+<li><h5>property dance</h5></li>
+<li><h5>imitating dance</h5></li>
+<li><h5>ghost dance</h5></li>
+
+</ul>
+
+
+<h3><i></i>Rules and Regulations</i></h3>
+<p>
+    <h5>Dance competition rules and regulations vary, but generally cover aspects like age divisions, time limits, music requirements, costume guidelines, and judging criteria. Specific rules may also address props, stage setup, and whether solo or team performances are allowed. Understanding these rules is crucial for both participants and organizers to ensure a fair and enjoyable competition.</h5>
+</p>
+<h2>conducted by</h2>
+<img src="D:\ALLDATA\Pictures\center.jpg" width="200px"</img>
+<center> <h3>CONTACT US | WHATSAPP | INSTAGRAM </center></h3>
+</body>
+
+</html> 
